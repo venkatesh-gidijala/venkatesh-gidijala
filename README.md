@@ -24,12 +24,19 @@
 
 ---
 
-## 📊 GitHub Stats (Languages & Contributions)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=venkatesh-gidijala&layout=compact&langs_count=6&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=venkatesh-gidijala&show_icons=true&theme=radical)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatesh-gidijala&layout=compact&langs_count=6&theme=radical" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=venkatesh-gidijala&show_icons=true&theme=radical" />
+    </td>
+  </tr>
+</table>
 
----
 
 ## 📌 Notable Projects
 
