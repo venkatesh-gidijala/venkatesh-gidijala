@@ -7,7 +7,7 @@
 - 🌱 I’m learning **Backend System Design** & **Cloud Deployment (Render, Vercel, Netlify)**
 - 💬 Ask me about **Java, React, Node.js, MongoDB, Spring Boot, DSA**
 - ✨ I enjoy turning ideas into real-world projects
-- 📫 Reach me at: **venkatesh.gidijala@gmail.com**
+- 📫 Reach me at: **venkeygdijala@gmail.com**
 
 ---
 
