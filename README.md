@@ -11,19 +11,53 @@
 
 ---
 
-## 🛠️ Tech Stack
+<div class="bg-white dark:bg-gray-900 text-gray-800 dark:text-gray-100 p-6 rounded-2xl shadow-lg max-w-4xl mx-auto">
+  <h2 class="text-3xl font-bold mb-6 text-center">🛠️ Tech Stack</h2>
 
-**Languages:**  
-`Java` `JavaScript` `Python` `HTML` `CSS`
+  <!-- Languages -->
+  <div class="mb-6">
+    <h3 class="text-xl font-semibold mb-2">💻 Languages</h3>
+    <div class="flex flex-wrap gap-3">
+      <span class="bg-gray-100 dark:bg-gray-800 px-4 py-2 rounded-full">🎯 Java</span>
+      <span class="bg-gray-100 dark:bg-gray-800 px-4 py-2 rounded-full">🌐 JavaScript</span>
+      <span class="bg-gray-100 dark:bg-gray-800 px-4 py-2 rounded-full">🐍 Python</span>
+      <span class="bg-gray-100 dark:bg-gray-800 px-4 py-2 rounded-full">📝 HTML</span>
+      <span class="bg-gray-100 dark:bg-gray-800 px-4 py-2 rounded-full">🎨 CSS</span>
+    </div>
+  </div>
 
-**Frameworks/Libraries:**  
-`React.js` `Node.js` `Express.js` `Spring Boot` `Tailwind CSS` `bootstrap`
+  <!-- Frameworks & Libraries -->
+  <div class="mb-6">
+    <h3 class="text-xl font-semibold mb-2">🚀 Frameworks & Libraries</h3>
+    <div class="flex flex-wrap gap-3">
+      <span class="bg-gray-100 dark:bg-gray-800 px-4 py-2 rounded-full">⚛️ React.js</span>
+      <span class="bg-gray-100 dark:bg-gray-800 px-4 py-2 rounded-full">🌿 Node.js</span>
+      <span class="bg-gray-100 dark:bg-gray-800 px-4 py-2 rounded-full">🚂 Express.js</span>
+      <span class="bg-gray-100 dark:bg-gray-800 px-4 py-2 rounded-full">☕ Spring Boot</span>
+      <span class="bg-gray-100 dark:bg-gray-800 px-4 py-2 rounded-full">💨 Tailwind CSS</span>
+      <span class="bg-gray-100 dark:bg-gray-800 px-4 py-2 rounded-full">📦 Bootstrap</span>
+    </div>
+  </div>
 
-**Tools & Platforms:**  
-`MongoDB` `MySQL` `Socket.IO` `Git & GitHub` `Postman` `VS Code` `Render` `Netlify` `Cloudinary`
+  <!-- Tools & Platforms -->
+  <div>
+    <h3 class="text-xl font-semibold mb-2">🧰 Tools & Platforms</h3>
+    <div class="flex flex-wrap gap-3">
+      <span class="bg-gray-100 dark:bg-gray-800 px-4 py-2 rounded-full">🍃 MongoDB</span>
+      <span class="bg-gray-100 dark:bg-gray-800 px-4 py-2 rounded-full">🐬 MySQL</span>
+      <span class="bg-gray-100 dark:bg-gray-800 px-4 py-2 rounded-full">📡 Socket.IO</span>
+      <span class="bg-gray-100 dark:bg-gray-800 px-4 py-2 rounded-full">🐙 Git & GitHub</span>
+      <span class="bg-gray-100 dark:bg-gray-800 px-4 py-2 rounded-full">📮 Postman</span>
+      <span class="bg-gray-100 dark:bg-gray-800 px-4 py-2 rounded-full">🧠 VS Code</span>
+      <span class="bg-gray-100 dark:bg-gray-800 px-4 py-2 rounded-full">🚀 Render</span>
+      <span class="bg-gray-100 dark:bg-gray-800 px-4 py-2 rounded-full">🌍 Netlify</span>
+      <span class="bg-gray-100 dark:bg-gray-800 px-4 py-2 rounded-full">☁️ Cloudinary</span>
+    </div>
+  </div>
+</div>
 
----
 
+----
 ## 📊 GitHub Stats
 
 <table>
