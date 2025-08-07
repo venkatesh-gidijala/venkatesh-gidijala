@@ -3,7 +3,7 @@
 🎓 B.Tech CSE @GMRIT | 🧠 Problem Solver | 💻 Full-Stack Developer
 
 - ✅ I’ve built a **MERN Chat App with real-time features using Socket.IO**
-- 💡 Solved **250+ problems on LeetCode** – [venky59](https://leetcode.com/u/venky59/)
+- 💡 Solved **300+ problems on LeetCode** – [venky59](https://leetcode.com/u/venky59/)
 - 🌱 I’m learning **Backend System Design** & **Cloud Deployment (Render, Vercel, Netlify)**
 - 💬 Ask me about **Java, React, Node.js, MongoDB, Spring Boot, DSA**
 - ✨ I enjoy turning ideas into real-world projects
